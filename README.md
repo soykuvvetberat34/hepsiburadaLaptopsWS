@@ -1,1 +1,1 @@
-# hepsiburadaLaptopsWS
+# hepsiburada_web_scraping_Beautifulsoup
