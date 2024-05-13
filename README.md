@@ -1,1 +1,1 @@
-# hepsiburada_web_scraping_Beautifulsoup
+Get Laptop infos from Hepsiburada
